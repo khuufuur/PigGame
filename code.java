@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 /* AUTHOR: Caramat, Maria Fides Portia A.
-Espanol, Thristan
+Espanol Thristan Jay T.
 Tamiao, Edraline
 Monticalvo, Aleiah
 
