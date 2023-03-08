@@ -22,7 +22,7 @@ public class DiceGame {
         System.out.println("Welcome to the Pig Game!");
 
         while (true) {
-            System.out.println("<< Current Scores << \nPlayer: " + playerScore + " \nComputer: " + computerScore);
+            System.out.println("<< Current Scores >> \nPlayer: " + playerScore + " \nComputer: " + computerScore);
             System.out.print("Are you ready to play the Pig Game? [y]es or [n]o ");
             String choice = scanner.nextLine();
 
